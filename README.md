@@ -10,6 +10,9 @@ Repo ini hanya berisi **file rilis**. Unduh versi terbaru:
 
 ## Cara pasang (Chrome / Edge / Brave)
 
+🎬 **[Tonton video tutorial (±1 menit)](https://raw.githubusercontent.com/yandyrohman/guritamarket-ext-release/main/media/tutorial-pasang-ekstensi.mp4)**
+
+
 1. Unduh file **gurita-market-extension.zip** di atas.
 2. **Ekstrak** zip-nya (klik kanan → *Extract All* / *Ekstrak Semua*). Akan muncul folder
    `gurita-market-extension`. Simpan folder ini di tempat tetap — jangan dihapus,
